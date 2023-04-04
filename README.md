@@ -28,6 +28,6 @@ node index.js
 
 <h3>
   <p align="center">
-     Made with ❤️ by <a href="www.github.com/PerksofbeingVaibhav">Vaibhav</a>
+     Made with ❤️ by <a href="https://github.com/PerksofbeingVaibhav">Vaibhav</a>
   </p>
 </h3>
